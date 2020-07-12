@@ -5,7 +5,16 @@ from pyrob.api import *
 
 @task(delay=0.01)
 def task_8_18():
-    pass
+    def main():
+        pass
+
+
+
+
+
+
+
+    main()
 
 
 if __name__ == '__main__':
