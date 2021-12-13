@@ -17,7 +17,7 @@ idna==2.6
 keyring==17.1.1
 keyrings.alt==3.1.1
 louis==3.8.0
-lxml==4.3.2
+lxml==4.6.5
 Mako==1.0.7
 MarkupSafe==1.1.0
 meteo-qt==1.0.0
